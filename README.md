@@ -38,8 +38,7 @@ Improving my JavaScript and backend skills
 ---
 
 ### 🧠 About Me
-💬 Ask me about **web development, JavaScript, and C programming**  
-📫 Reach me through **(add your email or link here if you want)**  
+💬 Ask me about **web development, JavaScript, and C programming**
 ⚡ Fun fact — I love learning new tech and solving bugs faster than I create them 😄  
 
 ---
