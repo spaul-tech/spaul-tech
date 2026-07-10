@@ -1,55 +1,74 @@
 <h1 align="center">Hi 👋, I'm Saptak Paul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Cybersecurity Enthusiast | CSE Student | Linux & Networking Learner | Aspiring Security Engineer</h3>
 
----
-
-### 🔭 I’m currently working on  
-C projects and web development practice
-
-### 🌱 I’m currently learning  
-C programming and web development
-
-### 👯 I’m looking to collaborate on  
-Small web development or open-source projects
-
-### 🤝 I’m looking for help with  
-Improving my JavaScript and backend skills
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Learning+Linux+%7C+Networking+%7C+Nmap;Building+Projects+Every+Week;Future+Blue+Team+Security+Engineer" />
 </p>
 
 ---
 
-### 📊 Most Used Languages
+## 👨‍💻 About Me
+
+- 🎓 CSE Student from **India**
+- 🔐 Learning **Cybersecurity** through practical labs
+- 🌱 Currently learning **Linux, Networking, Wireshark, Nmap & Git**
+- 🤖 Exploring **AI + Cybersecurity**
+- 💻 Building projects to strengthen my portfolio
+- 🎯 Goal: Become a **Cybersecurity Engineer**
+
+---
+
+## 🚀 Current Focus
+
+- 🌐 Networking Fundamentals
+- 🐧 Linux Administration
+- 🔍 Wireshark Packet Analysis
+- 📡 Nmap Scanning
+- 🛡️ Blue Team Skills
+- ☁️ Cloud Security (Upcoming)
+
+---
+
+## 🛠 Languages & Tools
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spaul-tech&show_icons=true&locale=en&layout=compact" alt="spaul-tech" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,linux,git,github,vscode,bash" />
 </p>
 
 ---
 
-### 🧠 About Me
-💬 Ask me about **web development, JavaScript, and C programming**
-⚡ Fun fact — I love learning new tech and solving bugs faster than I create them 😄  
+## 🌐 Connect with Me
 
----
-
-### 🌐 Connect with me
 <p align="left">
-  <a href="https://github.com/spaul-tech" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="spaul-tech" height="40" width="40" />
-  </a>
+<a href="https://linkedin.com/in/saptak-paul-175b62380"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:shantupaul2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/spaul-tech"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
 
-⭐️ From [spaul-tech](https://github.com/spaul-tech)
+## 📊 GitHub Statistics
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=spaul-tech&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spaul-tech&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spaul-tech&theme=tokyo-night"/>
+</p>
+
+---
+
+### 💡 Quote
+
+> *"The best way to learn cybersecurity is to break, analyze, understand, and build."* 🔐
