@@ -51,7 +51,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=spaul-tech&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=spaul-tech&theme=tokyonight&cache_seconds=0"/>
 </p>
 
 <p align="center">
