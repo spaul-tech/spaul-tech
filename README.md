@@ -54,10 +54,6 @@
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=spaul-tech&theme=tokyonight&cache_seconds=0"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spaul-tech&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 
