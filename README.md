@@ -37,9 +37,9 @@
 ---
 ## 🔐 Security Tools
 <p align="left">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="nmap.png" height="55" alt="Nmap" />
+<img src="wireshark.jpg" height="55" alt="Wireshark" />
+<img src="metasploit.jpg" height="80" width="90" alt="Metasploit" />
 </p>
 
 ---
