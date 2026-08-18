@@ -48,7 +48,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/saptak-paul-175b62380"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/spaul-tech"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
