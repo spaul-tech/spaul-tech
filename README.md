@@ -37,9 +37,16 @@
 ---
 ## 🔐 Security Tools
 <p align="left">
-<img src="nmap.png" height="55" alt="Nmap" />
-<img src="wireshark.jpg" height="55" alt="Wireshark" />
-<img src="metasploit.jpg" height="80" width="90" alt="Metasploit" />
+<img width="80" height="80" alt="nmap" src="https://github.com/user-attachments/assets/2a6e5c0c-be7c-44c7-a5cd-d479c4345888" />
+<img width="80" height="80" alt="wireshark" src="https://github.com/user-attachments/assets/6d362b3b-5744-4cbc-b748-dac48dcd0286" />
+<img width="80" height="80" alt="metasploit" src="https://github.com/user-attachments/assets/e04a1d56-ba39-4219-8535-2df391cd56a1" />
+<img width="80" height="80" alt="hydra" src="https://github.com/user-attachments/assets/ca8217f3-6ef5-45ad-aab0-26fd26e2a5ff" />
+<img width="80" height="80" alt="john" src="https://www.kali.org/tools/john/images/john-logo.svg">
+<img width="80" height="80" alt="nikto" src="https://github.com/user-attachments/assets/ce1f7a8e-3832-4b80-a7ef-218c992dbaf7" />
+<img width="80" height="80" alt="burpsuite" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
+<img width="80" height="80" alt="gobuster" src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg">
+
+
 </p>
 
 ---
