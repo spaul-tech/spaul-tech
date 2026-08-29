@@ -1,1 +1,16 @@
-name: generate graph on: schedule: - cron: "0 0 * * *" workflow_dispatch: jobs: build: runs-on: ubuntu-latest steps: - uses: Ashutosh00710/github-readme-activity-graph@v1.4.0 with: github_username: spaul-tech theme: tokyo-night output: github-contribution-grid-snake.svg
+name: generate graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Ashutosh00710/github-readme-activity-graph@v1.4.0
+        with:
+          github_username: spaul-tech
+          theme: tokyo-night
+          output: github-contribution-grid-snake.svg
