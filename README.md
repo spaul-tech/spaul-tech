@@ -45,6 +45,8 @@
 <img width="80" height="80" alt="nikto" src="https://github.com/user-attachments/assets/ce1f7a8e-3832-4b80-a7ef-218c992dbaf7" />
 <img width="80" height="80" alt="burpsuite" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
 <img width="80" height="80" alt="gobuster" src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg">
+<img width="80" height="80" alt="netcat" src="https://github.com/user-attachments/assets/efdc02c2-e3a0-4605-86ea-453f18790d6c" />
+
 
 
 </p>
@@ -71,10 +73,7 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spaul-tech&theme=tokyo-night"/>
-</p>
-
+ ![snake](https://raw.githubusercontent.com/spaul-tech/spaul-tech/output/github-contribution-grid-snake.svg)
 ---
 
 ### 💡 Quote
