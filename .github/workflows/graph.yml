@@ -1,4 +1,4 @@
-name: generate graph
+name: generate snake
 
 on:
   schedule:
@@ -8,9 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: Ashutosh00710/github-readme-activity-graph@v1.4.0
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_username: spaul-tech
-          theme: tokyo-night
-          output: github-contribution-grid-snake.svg
+          github_user_name: spaul-tech
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
