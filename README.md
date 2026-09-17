@@ -56,8 +56,10 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/saptak-paul-175b62380"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-</p>
+<a href="https://linkedin.com/in/saptak-paul-175b62380"><img width="80" height="60" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://tryhackme.com/p/CompilerError"><img width="85" height="60" alt="image" src="https://github.com/user-attachments/assets/6c156765-c9e6-42b6-88eb-823af1d58825" />
+
+
 
 ---
 
