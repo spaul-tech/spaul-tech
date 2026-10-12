@@ -47,8 +47,7 @@
 <img width="80" height="80" alt="gobuster" src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg">
 <img width="80" height="80" alt="ffuf" src="https://github.com/user-attachments/assets/690f7229-4076-4764-9fea-0e34f36414a9" />
 <img width="80" height="80" alt="netcat" src="https://github.com/user-attachments/assets/efdc02c2-e3a0-4605-86ea-453f18790d6c" />
-
-
+<img width="80" height="80" alt="wazuh" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wazuh.png" />
 
 </p>
 
