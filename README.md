@@ -1,11 +1,14 @@
- <h1 align="center">Hi 👋, I'm Saptak Paul</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,50:0EA5E9,100:00F5D4&height=230&section=header&text=Saptak%20Paul&fontSize=62&fontColor=ffffff&stroke=00F5D4&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=Offensive%20Security%20%E2%80%A2%20Blue%20Team%20%E2%80%A2%20Python&descSize=20&descColor=00F5D4&descAlignY=62" width="100%" alt="Header" />
+</p>
+
 <h3 align="center">🔐 Cybersecurity Learner | CSE Student | Offensive Security & Blue Team</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Exploring+Offensive+Security;Practicing+Web+Application+Security;Building+with+Python;Learning+Threat+Detection+with+Wazuh;Breaking%2C+Analyzing%2C+and+Securing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1200&color=BF40FF&center=true&vCenter=true&width=900&height=70&letterSpacing=1px&repeat=true&lines=root%40kali%3A~%23+whoami+%E2%86%92+saptak;%5B%2B%5D+Offensive+Security;%5B%2B%5D+Web+App+Pentesting;%5B%2B%5D+Python+Automation;%5B%2B%5D+Wazuh+Threat+Detection;%5B*%5D+Break.+Analyze.+Secure." alt="Typing SVG" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 👨‍💻 About Me
 
@@ -18,7 +21,7 @@
 - 🤖 Interested in the intersection of **AI and Cybersecurity**
 - 🎯 Goal: Grow into a skilled cybersecurity professional with strong hands-on experience in both attack and defense
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 🚀 Current Focus
 
@@ -29,7 +32,7 @@
 - 🐍 **Security Scripting:** Python and Bash for small security automation projects
 - 🤖 **AI + Cybersecurity:** Exploring how AI can assist security workflows
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 🛠️ Languages & Technologies
 
@@ -37,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,linux,bash,git,github,vscode" alt="Languages and development tools" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 🔐 Security Tools
 
@@ -54,9 +57,10 @@
   <img width="70" height="70" alt="ffuf" src="https://github.com/user-attachments/assets/690f7229-4076-4764-9fea-0e34f36414a9" />
   <img width="70" height="70" alt="Netcat" src="https://github.com/user-attachments/assets/efdc02c2-e3a0-4605-86ea-453f18790d6c" />
   <img width="70" height="70" alt="Wazuh" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wazuh.png" />
+  <img width="70" height="70" alt="Wazuh" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 🧪 Hands-on Labs & Projects
 
@@ -71,20 +75,17 @@
 - **File Integrity Monitoring (FIM):** Monitoring file changes and reviewing generated security events
 - **Vulnerability Detection:** Exploring CVE information reported for the monitored Windows endpoint
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 🏴‍☠️ Practice & Learning Platforms
 
 <p align="left">
-  <a href="https://tryhackme.com/p/CompilerError">
+  <a href="https://tryhackme.com/p/R00tM4st3r">
     <img src="https://img.shields.io/badge/TryHackMe-Practical%20Labs-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile" />
-  </a>
-  <a href="https://portswigger.net/web-security">
-    <img src="https://img.shields.io/badge/PortSwigger-Web%20Security-orange?style=for-the-badge" alt="PortSwigger Web Security Academy" />
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 🌐 Connect with Me
 
@@ -92,21 +93,17 @@
   <a href="https://linkedin.com/in/saptak-paul-175b62380">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/spaul-tech">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
-  </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spaul-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=spaul-tech&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ## 🐍 Contribution Graph
 
@@ -114,9 +111,12 @@
   <img src="https://raw.githubusercontent.com/spaul-tech/spaul-tech/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
 
 ### 💡 My Philosophy
 
 > *"Understand the attack. Investigate the evidence. Build better defenses."* 🔐
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
+</p>
