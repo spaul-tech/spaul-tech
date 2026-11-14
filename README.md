@@ -80,7 +80,7 @@
 ## 🏴‍☠️ Practice & Learning Platforms
 
 <p align="left">
-  <a href="https://tryhackme.com/p/R00tM4st3r">
+  <a href="https://tryhackme.com/p/r001m4513r">
     <img src="https://img.shields.io/badge/TryHackMe-Practical%20Labs-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile" />
   </a>
 </p>
